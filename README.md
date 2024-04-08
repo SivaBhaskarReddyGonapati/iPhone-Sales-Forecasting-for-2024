@@ -7,7 +7,7 @@ I need to also model the quarterly unit volume to estimate missing values, as yo
 
 I need to produce what you believe are your best forecasts. My best model may be a unidirectional model, or a regression model that uses your unit or sales price estimates. You will need to defend your methodology.
 
-Additionally, I must also produce forecasts assuming: 
-(1) a 10% decline in average selling price
+Additionally, I must also produce forecasts assuming: <br>
+(1) a 10% decline in average selling price<br>
 (2) a 10% increase in average selling price in order to give the market scenarios.
 
